@@ -24,8 +24,8 @@
     <artifactId>cas-server-webapp</artifactId>
     <version>4.0.0</version>
     <packaging>war</packaging>
-    <name>Jasig CAS Web Application</name>
-    <description>Jasig CAS Server Web Application</description>
+    <name>cas-server</name>
+    <description>cas-server</description>
 
     <properties>
         <!-- 文件拷贝时的编码 -->
